@@ -71,7 +71,7 @@ npm start
 
 👉 **Kanban**: Add Todos and edit, remove as well as re-arrange them by dragging
 
-👉 **Orders, Employees, Customers**: See your Orders, Employees, Customers lists and filter them by their activity. The list has pagination feature.
+👉 **Orders, Employees, Customers**: See your Orders, Employees, Customers Tables and filter them by their activity. Each Table has pagination feature.
 
 👉 **Charts**: There are different types of charts thet give a beauty to your dashboard. Fully interactive and animated.
 

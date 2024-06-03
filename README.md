@@ -1,6 +1,6 @@
 # Welcome to a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
 
-![Shoppy](https://i.ibb.co/W6g39w3/image.png)
+![Shoppy](src/screenshots/image1.png)
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -79,7 +79,7 @@ npm start
 
 ## 📋 <a name="samples">Sample Images</a>
 
-![Image 1](src/screenshots/image1.png)
+![Image 1](src/screenshots/image6.png)
 ![Image 2](src/screenshots/image2.png)
 ![Image 3](src/screenshots/image3.png)
 ![Image 4](src/screenshots/image4.png)
